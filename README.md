@@ -27,5 +27,5 @@ It's like that Ghibli film where everything feels warm and magical, but it's an 
 
 This is a vibe-coded React app, which means it was made with love, tea, and conversational magic rather than 47 terminal windows and Stack Overflow.
 
-### Getting Started
-```bash
+## License
+This software is currently not licensed for commercial use. If you’d like to use this in a business setting or install it professionally, please contact me at cw4444@gmail.com
